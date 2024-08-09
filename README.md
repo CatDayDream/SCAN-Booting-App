@@ -3,4 +3,4 @@
 
 ![](https://github.com/CatDayDream/SCAN-Booting-App/blob/master/Booting%E6%B5%81%E7%A8%8B.png)
 
-代码可供参考学习，版权归SIEMENS公司所有
+代码可供参考学习，版权归SIEMENS所有
